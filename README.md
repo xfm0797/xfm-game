@@ -159,7 +159,7 @@ npx http-server -p 8080
 │   ├── engine.js         # Canvas 游戏引擎（循环 / 输入 / 音效 / 计分）
 │   ├── core.js           # 大厅、路由（hash）、游戏页框架
 │   └── games/            # 游戏包（15 个文件，210 款游戏）
-│       ├── sokoban.js    # 推箱子（50 关）
+│       ├── sokoban.js    # 推箱子（155 关）
 │       ├── puzzle.js / puzzle2.js / vol-b.js   # 益智
 │       ├── arcade.js / arcade2.js / vol-a.js   # 街机
 │       ├── casual.js / vol-d.js                # 休闲

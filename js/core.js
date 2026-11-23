@@ -92,7 +92,7 @@
           <div class="hero-actions">
             <button class="btn-main" id="hero-random">🎲 随机来一局</button>
             ${recent ? `<a class="btn-ghost" href="#/play/${recent.id}">▶ 继续 ${recent.name}</a>` : ""}
-            <a class="btn-ghost" href="#/play/sokoban">📦 推箱子 50 关</a>
+            <a class="btn-ghost" href="#/play/sokoban">📦 推箱子 155 关</a>
           </div>
         </div>
         <div class="hero-art" aria-hidden="true">
